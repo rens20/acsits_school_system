@@ -1,0 +1,336 @@
+.ANNOUNCEMENTS {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ANNOUNCEMENTS .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1280px;
+  height: 832px;
+  background-image: url(img/acsits-3.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  width: 100%;
+}
+
+.ANNOUNCEMENTS .overlap {
+  position: relative;
+  width: 1283px;
+  height: 845px;
+  top: -13px;
+  left: -3px;
+}
+
+.ANNOUNCEMENTS .ACSITS {
+  position: absolute;
+  width: 1280px;
+  height: 832px;
+  top: 13px;
+  left: 3px;
+  object-fit: cover;
+}
+
+.ANNOUNCEMENTS .rectangle {
+  position: absolute;
+  width: 1283px;
+  height: 111px;
+  top: 0;
+  left: 0;
+  background-color: #060e613b;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.ANNOUNCEMENTS .mask-group {
+  position: absolute;
+  width: 56px;
+  height: 39px;
+  top: 44px;
+  left: 1096px;
+}
+
+.ANNOUNCEMENTS .ellipse {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 70px;
+  left: 1123px;
+  background-color: #fc1515;
+  border-radius: 6.5px;
+}
+
+.ANNOUNCEMENTS .text-wrapper {
+  position: absolute;
+  width: 7px;
+  top: 68px;
+  left: 1127px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #fbfbfb;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .div {
+  position: absolute;
+  top: 50px;
+  left: 339px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #060e61;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .text-wrapper-2 {
+  position: absolute;
+  top: 50px;
+  left: 854px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .text-wrapper-3 {
+  position: absolute;
+  top: 50px;
+  left: 968px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .text-wrapper-4 {
+  position: absolute;
+  top: 50px;
+  left: 1166px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .text-wrapper-5 {
+  position: absolute;
+  top: 50px;
+  left: 742px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .text-wrapper-6 {
+  position: absolute;
+  top: 50px;
+  left: 229px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .logo {
+  position: absolute;
+  width: 109px;
+  height: 118px;
+  top: 13px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.ANNOUNCEMENTS .rectangle-2 {
+  position: absolute;
+  width: 539px;
+  height: 373px;
+  top: 388px;
+  left: 397px;
+  background-color: #f5f5fa;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.ANNOUNCEMENTS .frame {
+  position: absolute;
+  width: 78px;
+  height: 63px;
+  top: 419px;
+  left: 890px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.ANNOUNCEMENTS .overlap-group {
+  position: relative;
+  width: 308px;
+  height: 70px;
+  top: 6px;
+}
+
+.ANNOUNCEMENTS .text-wrapper-7 {
+  position: absolute;
+  width: 202px;
+  top: 0;
+  left: 17px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .div-wrapper {
+  position: absolute;
+  width: 291px;
+  height: 38px;
+  top: 32px;
+  left: 17px;
+}
+
+.ANNOUNCEMENTS .text-wrapper-8 {
+  position: absolute;
+  width: 291px;
+  top: -1px;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .line {
+  position: absolute;
+  width: 78px;
+  height: 1px;
+  top: 25px;
+  left: 0;
+  object-fit: cover;
+}
+
+.ANNOUNCEMENTS .more {
+  position: absolute;
+  width: 27px;
+  height: 22px;
+  top: 394px;
+  left: 893px;
+}
+
+.ANNOUNCEMENTS .good-day-here-s-an {
+  position: absolute;
+  width: 485px;
+  top: 488px;
+  left: 429px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .text-wrapper-9 {
+  position: absolute;
+  top: 444px;
+  left: 503px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 10px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .p {
+  position: absolute;
+  top: 423px;
+  left: 503px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .maryelle-pic {
+  position: absolute;
+  width: 59px;
+  height: 59px;
+  top: 410px;
+  left: 428px;
+  object-fit: cover;
+}
+
+.ANNOUNCEMENTS .frame-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 28px 34px;
+  position: absolute;
+  top: 207px;
+  left: 397px;
+  background-color: #f5f5fa;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.ANNOUNCEMENTS .image {
+  position: relative;
+  width: 74px;
+  height: 78.69px;
+  object-fit: cover;
+}
+
+.ANNOUNCEMENTS .frame-3 {
+  display: inline-flex;
+  height: 78px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.ANNOUNCEMENTS .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8a8a8a;
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+}
+
+.ANNOUNCEMENTS .rectangle-3 {
+  position: absolute;
+  width: 34px;
+  height: 22px;
+  top: 394px;
+  left: 890px;
+  background-color: #a8a8a880;
+}

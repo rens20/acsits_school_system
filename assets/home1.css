@@ -1,0 +1,842 @@
+.HOME-STUDENT-VIEW {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.HOME-STUDENT-VIEW .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1280px;
+  height: 832px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100% 100%;
+  width: 100%;
+  background-image: url(img/acsits-3.png);
+}
+
+.HOME-STUDENT-VIEW .overlap {
+  position: relative;
+  width: 1283px;
+  height: 845px;
+  top: -13px;
+  left: -3px;
+}
+
+.HOME-STUDENT-VIEW .ACSITS {
+  position: absolute;
+  width: 1280px;
+  height: 832px;
+  top: 13px;
+  left: 3px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .rectangle {
+  position: absolute;
+  width: 1283px;
+  height: 111px;
+  top: 0;
+  left: 0;
+  background-color: #060e613b;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper {
+  position: absolute;
+  top: 50px;
+  left: 339px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .div {
+  position: absolute;
+  top: 50px;
+  left: 854px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-2 {
+  position: absolute;
+  top: 50px;
+  left: 968px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-3 {
+  position: absolute;
+  top: 50px;
+  left: 1166px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-4 {
+  position: absolute;
+  top: 50px;
+  left: 742px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-5 {
+  position: absolute;
+  top: 50px;
+  left: 229px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #060e61;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .logo {
+  position: absolute;
+  width: 109px;
+  height: 118px;
+  top: 13px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .merch-rec {
+  position: absolute;
+  width: 276px;
+  height: 264px;
+  top: 173px;
+  left: 965px;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-6 {
+  position: absolute;
+  top: 225px;
+  left: 1027px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0.65px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .mask-group {
+  position: absolute;
+  width: 56px;
+  height: 39px;
+  top: 44px;
+  left: 1096px;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-7 {
+  position: absolute;
+  width: 184px;
+  top: 275px;
+  left: 1027px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0.65px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-8 {
+  position: absolute;
+  width: 184px;
+  top: 327px;
+  left: 1027px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0.65px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .group {
+  position: absolute;
+  width: 576px;
+  height: 355px;
+  top: 461px;
+  left: 49px;
+}
+
+.HOME-STUDENT-VIEW .overlap-group {
+  position: relative;
+  width: 584px;
+  height: 363px;
+  left: -4px;
+}
+
+.HOME-STUDENT-VIEW .img {
+  width: 584px;
+  height: 344px;
+  top: 19px;
+  position: absolute;
+  left: 0;
+}
+
+.HOME-STUDENT-VIEW .double-right {
+  left: 540px;
+  position: absolute;
+  width: 30px;
+  height: 50px;
+  top: 162px;
+}
+
+.HOME-STUDENT-VIEW .double-left {
+  left: 8px;
+  position: absolute;
+  width: 30px;
+  height: 50px;
+  top: 162px;
+}
+
+.HOME-STUDENT-VIEW .officer-shirt {
+  position: absolute;
+  width: 488px;
+  height: 275px;
+  top: 64px;
+  left: 45px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .frame {
+  display: flex;
+  width: 231px;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 166px;
+  background-color: #060e61;
+  border-radius: 20px;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -4.5px;
+  margin-bottom: -2.5px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .overlap-group-wrapper {
+  position: absolute;
+  width: 630px;
+  height: 285px;
+  top: 154px;
+  left: 39px;
+}
+
+.HOME-STUDENT-VIEW .overlap-2 {
+  position: relative;
+  width: 622px;
+  height: 285px;
+}
+
+.HOME-STUDENT-VIEW .rectangle-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  top: 9px;
+  left: 0;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+}
+
+.HOME-STUDENT-VIEW .rectangle-2 {
+  position: relative;
+  width: 576px;
+  height: 256px;
+  background-color: #f5f5fa;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.HOME-STUDENT-VIEW .aien-profile {
+  position: absolute;
+  width: 60px;
+  height: 57px;
+  top: 56px;
+  left: 71px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .p {
+  position: absolute;
+  top: 66px;
+  left: 138px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .double-right-2 {
+  position: absolute;
+  width: 30px;
+  height: 50px;
+  top: 131px;
+  left: 546px;
+}
+
+.HOME-STUDENT-VIEW .double-left-2 {
+  position: absolute;
+  width: 30px;
+  height: 50px;
+  top: 131px;
+  left: 14px;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-10 {
+  position: absolute;
+  width: 119px;
+  top: 131px;
+  left: 71px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0.75px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .DEADLINE-OF-PAYMENT {
+  position: absolute;
+  width: 551px;
+  top: 174px;
+  left: 71px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0.75px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-11 {
+  position: absolute;
+  top: 84px;
+  left: 138px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 10px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .div-wrapper {
+  display: flex;
+  width: 265px;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 155px;
+  background-color: #060e61;
+  border-radius: 20px;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+}
+
+.HOME-STUDENT-VIEW .group-2 {
+  position: absolute;
+  width: 268px;
+  height: 662px;
+  top: 154px;
+  left: 659px;
+}
+
+.HOME-STUDENT-VIEW .overlap-3 {
+  position: relative;
+  width: 276px;
+  height: 670px;
+  left: -4px;
+}
+
+.HOME-STUDENT-VIEW .merch-rec-2 {
+  width: 276px;
+  height: 651px;
+  top: 19px;
+  position: absolute;
+  left: 0;
+}
+
+.HOME-STUDENT-VIEW .group-3 {
+  position: absolute;
+  width: 243px;
+  height: 95px;
+  top: 66px;
+  left: 22px;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-12 {
+  position: absolute;
+  width: 239px;
+  top: 32px;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-13 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .group-4 {
+  position: absolute;
+  width: 243px;
+  height: 94px;
+  top: 181px;
+  left: 23px;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-15 {
+  position: absolute;
+  width: 239px;
+  top: 31px;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .group-5 {
+  position: absolute;
+  width: 243px;
+  height: 97px;
+  top: 411px;
+  left: 23px;
+}
+
+.HOME-STUDENT-VIEW .date-to-be-announce {
+  position: absolute;
+  width: 239px;
+  top: 34px;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .group-6 {
+  position: absolute;
+  width: 243px;
+  height: 95px;
+  top: 296px;
+  left: 23px;
+}
+
+.HOME-STUDENT-VIEW .group-7 {
+  position: absolute;
+  width: 243px;
+  height: 97px;
+  top: 526px;
+  left: 23px;
+}
+
+.HOME-STUDENT-VIEW .frame-2 {
+  display: flex;
+  width: 162px;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 57px;
+  background-color: #060e61;
+  border-radius: 20px;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+}
+
+.HOME-STUDENT-VIEW .frame-3 {
+  display: flex;
+  width: 198px;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  top: 154px;
+  left: 1004px;
+  background-color: #060e61;
+  border-radius: 20px;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+}
+
+.HOME-STUDENT-VIEW .group-8 {
+  position: absolute;
+  width: 288px;
+  height: 353px;
+  top: 461px;
+  left: 964px;
+}
+
+.HOME-STUDENT-VIEW .overlap-4 {
+  position: relative;
+  width: 276px;
+  height: 361px;
+  left: -4px;
+}
+
+.HOME-STUDENT-VIEW .merch-rec-3 {
+  width: 276px;
+  height: 344px;
+  top: 17px;
+  position: absolute;
+  left: 0;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-16 {
+  top: 72px;
+  position: absolute;
+  left: 81px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-17 {
+  position: absolute;
+  top: 88px;
+  left: 91px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 6px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-18 {
+  position: absolute;
+  top: 146px;
+  left: 91px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 6px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-19 {
+  position: absolute;
+  top: 195px;
+  left: 91px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 6px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-20 {
+  top: 245px;
+  position: absolute;
+  left: 91px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 6px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-21 {
+  top: 300px;
+  position: absolute;
+  left: 91px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 6px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-22 {
+  position: absolute;
+  top: 130px;
+  left: 81px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-23 {
+  position: absolute;
+  top: 179px;
+  left: 81px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-24 {
+  top: 228px;
+  position: absolute;
+  left: 81px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-25 {
+  position: absolute;
+  top: 285px;
+  left: 81px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.HOME-STUDENT-VIEW .frame-4 {
+  display: flex;
+  width: 198px;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 44px;
+  background-color: #060e61;
+  border-radius: 20px;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+}
+
+.HOME-STUDENT-VIEW .april {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 63px;
+  left: 31px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .shandee {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 117px;
+  left: 31px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .kala {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 171px;
+  left: 31px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .clyde {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 225px;
+  left: 31px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .princess {
+  position: absolute;
+  width: 40px;
+  height: 41px;
+  top: 279px;
+  left: 31px;
+  object-fit: cover;
+}
+
+.HOME-STUDENT-VIEW .ellipse {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 89px;
+  left: 81px;
+  background-color: #00ff47;
+  border-radius: 3px;
+}
+
+.HOME-STUDENT-VIEW .ellipse-2 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 147px;
+  left: 81px;
+  background-color: #00ff47;
+  border-radius: 3px;
+}
+
+.HOME-STUDENT-VIEW .ellipse-3 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 196px;
+  left: 81px;
+  background-color: #ff0000;
+  border-radius: 3px;
+}
+
+.HOME-STUDENT-VIEW .ellipse-4 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 245px;
+  left: 81px;
+  background-color: #ff0000;
+  border-radius: 3px;
+}
+
+.HOME-STUDENT-VIEW .ellipse-5 {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 302px;
+  left: 81px;
+  background-color: #ff0000;
+  border-radius: 3px;
+}
+
+.HOME-STUDENT-VIEW .rectangle-3 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 220px;
+  left: 991px;
+  background-color: #060e6187;
+}
+
+.HOME-STUDENT-VIEW .rectangle-4 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 272px;
+  left: 991px;
+  background-color: #060e6187;
+}
+
+.HOME-STUDENT-VIEW .rectangle-5 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 325px;
+  left: 991px;
+  background-color: #060e6187;
+}
+
+.HOME-STUDENT-VIEW .ellipse-6 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 70px;
+  left: 1123px;
+  background-color: #fc1515;
+  border-radius: 6.5px;
+}
+
+.HOME-STUDENT-VIEW .text-wrapper-26 {
+  position: absolute;
+  width: 7px;
+  top: 68px;
+  left: 1127px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #fbfbfb;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  line-height: normal;
+}

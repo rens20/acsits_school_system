@@ -1,0 +1,189 @@
+.ACHIEVEMENTS {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ACHIEVEMENTS .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 832px;
+}
+
+.ACHIEVEMENTS .overlap-group {
+  position: relative;
+  height: 832px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  width: 100%;
+  background-image: url(img/acsits-3.png);
+  background-position: 50% 50%;
+}
+
+.ACHIEVEMENTS .overlap {
+  position: absolute;
+  width: 1189px;
+  height: 800px;
+  top: 0;
+  left: 91px;
+}
+
+.ACHIEVEMENTS .text-wrapper {
+  position: absolute;
+  width: 848px;
+  top: 134px;
+  left: 11px;
+  background: linear-gradient(180deg, rgb(13, 17, 100) 27.6%, rgb(50.36, 107.32, 188.26) 50.42%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ACHIEVEMENTS .element-year-IT-students {
+  position: absolute;
+  width: 643px;
+  top: 447px;
+  left: 11px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ACHIEVEMENTS .span {
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.ACHIEVEMENTS .text-wrapper-2 {
+  font-weight: 700;
+}
+
+.ACHIEVEMENTS .IT-students {
+  position: absolute;
+  width: 643px;
+  top: 750px;
+  left: 11px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.ACHIEVEMENTS .add-a-heading {
+  position: absolute;
+  width: 147px;
+  height: 172px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.ACHIEVEMENTS .img {
+  position: absolute;
+  width: 554px;
+  height: 571px;
+  top: 208px;
+  left: 635px;
+  object-fit: cover;
+}
+
+.ACHIEVEMENTS .image {
+  top: 227px;
+  left: 16px;
+  position: absolute;
+  width: 632px;
+  height: 211px;
+  object-fit: cover;
+}
+
+.ACHIEVEMENTS .image-2 {
+  top: 530px;
+  left: 11px;
+  position: absolute;
+  width: 632px;
+  height: 211px;
+  object-fit: cover;
+}
+
+.ACHIEVEMENTS .div {
+  position: absolute;
+  top: 64px;
+  left: 278px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #060e61;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+
+.ACHIEVEMENTS .text-wrapper-3 {
+  position: absolute;
+  top: 64px;
+  left: 494px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.ACHIEVEMENTS .text-wrapper-3 a{
+  color: #000000;
+  text-decoration: none;
+}
+
+
+.ACHIEVEMENTS .text-wrapper-4 {
+  position: absolute;
+  top: 64px;
+  left: 999px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+
+.ACHIEVEMENTS .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 55px;
+  left: 1106px;
+  border-radius: 20px;
+}
+
+.ACHIEVEMENTS .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+}

@@ -1,0 +1,194 @@
+.about-us {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-us .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 832px;
+}
+
+.about-us .overlap-group {
+  position: relative;
+  height: 832px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  width: 100%;
+  background-image: url(img/acsits-3.png);
+  background-position: 50% 50%;
+}
+
+.about-us .overlap {
+  position: absolute;
+  width: 1189px;
+  height: 791px;
+  top: 0;
+  left: 91px;
+}
+
+.about-us .text-wrapper {
+  position: absolute;
+  width: 848px;
+  top: 134px;
+  left: 11px;
+  background: linear-gradient(180deg, rgb(13, 17, 100) 27.6%, rgb(50.36, 107.32, 188.26) 50.42%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us .the-association-of {
+  position: absolute;
+  width: 643px;
+  top: 229px;
+  left: 11px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us .span {
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+.about-us .text-wrapper-2 {
+  font-weight: 700;
+}
+
+.about-us .the-purpose-of-this {
+  position: absolute;
+  width: 643px;
+  top: 325px;
+  left: 8px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us .vision-to-promote {
+  position: absolute;
+  width: 643px;
+  top: 508px;
+  left: 8px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us .mission-we-aim-to {
+  position: absolute;
+  width: 643px;
+  top: 641px;
+  left: 11px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us .add-a-heading {
+  position: absolute;
+  width: 147px;
+  height: 172px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.about-us .img {
+  position: absolute;
+  width: 554px;
+  height: 571px;
+  top: 208px;
+  left: 635px;
+  object-fit: cover;
+}
+
+.about-us .div {
+  position: absolute;
+  top: 64px;
+  left: 278px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+
+.about-us .text-wrapper-3 {
+  position: absolute;
+  top: 64px;
+  left: 494px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.about-us .text-wrapper-4 {
+  position: absolute;
+  top: 64px;
+  left: 999px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+
+.about-us .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 55px;
+  left: 1106px;
+  border-radius: 20px;
+}
+
+.about-us .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+}

@@ -1,0 +1,312 @@
+.NOTIFICATIONS {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.NOTIFICATIONS .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1280px;
+  height: 832px;
+  background-image: url(img/acsits-1.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  width: 100%;
+}
+
+.NOTIFICATIONS .overlap-group {
+  position: relative;
+  width: 1283px;
+  height: 845px;
+  top: -13px;
+  left: -3px;
+}
+
+.NOTIFICATIONS .ACSITS {
+  position: absolute;
+  width: 1280px;
+  height: 832px;
+  top: 13px;
+  left: 3px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .rectangle {
+  position: absolute;
+  width: 550px;
+  height: 547px;
+  top: 238px;
+  left: 441px;
+  background-color: #f5f5fa;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.NOTIFICATIONS .div {
+  position: absolute;
+  width: 550px;
+  height: 137px;
+  top: 237px;
+  left: 440px;
+  background-color: #ededed;
+  border-radius: 20px 20px 0px 0px;
+}
+
+.NOTIFICATIONS .image {
+  position: absolute;
+  width: 72px;
+  height: 72px;
+  top: 274px;
+  left: 480px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .aien-mae-garcia {
+  position: absolute;
+  top: 442px;
+  left: 580px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .text-wrapper {
+  font-weight: 700;
+  letter-spacing: 0.1px;
+}
+
+.NOTIFICATIONS .span {
+  letter-spacing: 0.1px;
+}
+
+.NOTIFICATIONS .angeline-abella {
+  top: 305px;
+  position: absolute;
+  left: 578px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .shandee-rentutar {
+  position: absolute;
+  top: 589px;
+  left: 578px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .april-cosme {
+  top: 716px;
+  position: absolute;
+  left: 578px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .aien-profile {
+  position: absolute;
+  width: 72px;
+  height: 70px;
+  top: 420px;
+  left: 480px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .rectangle-2 {
+  position: absolute;
+  width: 1283px;
+  height: 111px;
+  top: 0;
+  left: 0;
+  background-color: #060e613b;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.NOTIFICATIONS .mask-group {
+  position: absolute;
+  width: 56px;
+  height: 39px;
+  top: 44px;
+  left: 1096px;
+}
+
+.NOTIFICATIONS .ellipse {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 70px;
+  left: 1123px;
+  background-color: #fc1515;
+  border-radius: 6.5px;
+}
+
+.NOTIFICATIONS .text-wrapper-2 {
+  position: absolute;
+  width: 7px;
+  top: 68px;
+  left: 1127px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #fbfbfb;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .text-wrapper-3 {
+  position: absolute;
+  top: 50px;
+  left: 339px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .text-wrapper-4 {
+  position: absolute;
+  top: 50px;
+  left: 854px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .text-wrapper-5 {
+  position: absolute;
+  top: 50px;
+  left: 968px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .text-wrapper-6 {
+  position: absolute;
+  top: 50px;
+  left: 1166px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .text-wrapper-7 {
+  position: absolute;
+  top: 50px;
+  left: 742px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .text-wrapper-8 {
+  position: absolute;
+  top: 50px;
+  left: 229px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .logo {
+  position: absolute;
+  width: 109px;
+  height: 118px;
+  top: 13px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .text-wrapper-9 {
+  position: absolute;
+  top: 155px;
+  left: 572px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 1.08px;
+  line-height: normal;
+}
+
+.NOTIFICATIONS .line {
+  top: 374px;
+  left: 440px;
+  position: absolute;
+  width: 551px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .img {
+  top: 521px;
+  left: 440px;
+  position: absolute;
+  width: 551px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .line-2 {
+  top: 664px;
+  left: 441px;
+  position: absolute;
+  width: 551px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .shandee {
+  position: absolute;
+  width: 72px;
+  height: 69px;
+  top: 567px;
+  left: 480px;
+  object-fit: cover;
+}
+
+.NOTIFICATIONS .april {
+  position: absolute;
+  width: 68px;
+  height: 69px;
+  top: 695px;
+  left: 482px;
+  object-fit: cover;
+}

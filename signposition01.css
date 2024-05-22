@@ -1,0 +1,428 @@
+.sign-up-position {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up-position .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 832px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  width: 100%;
+  background-position: center;
+  background-image: url(img/acsits-3.png);
+}
+
+.sign-up-position .overlap {
+  position: relative;
+  width: 1572px;
+  height: 1080px;
+  left: -292px;
+}
+
+.sign-up-position .ACSITS {
+  position: absolute;
+  width: 1280px;
+  height: 832px;
+  top: 0;
+  left: 292px;
+  object-fit: cover;
+}
+
+.sign-up-position .ellipse {
+  width: 99px;
+  height: 95px;
+  top: 477px;
+  left: 882px;
+  border-radius: 49.5px/47.5px;
+  position: absolute;
+  background: linear-gradient(180deg, rgb(6, 14, 97) 0%, rgba(0, 135.48, 255, 0.55) 80.73%);
+}
+
+.sign-up-position .rectangle {
+  position: absolute;
+  width: 493px;
+  height: 697px;
+  top: 93px;
+  left: 1005px;
+  background-color: #f5f5fa;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.sign-up-position .frame {
+  display: flex;
+  width: 290px;
+  height: 51px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 659px;
+  left: 1107px;
+  background-color: #060e61;
+  border-radius: 20px;
+}
+
+.sign-up-position .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+
+.sign-up-position .div {
+  position: absolute;
+  width: 633px;
+  top: 239px;
+  left: 372px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sign-up-position .text-wrapper-2 {
+  position: absolute;
+  width: 429px;
+  top: 121px;
+  left: 1059px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.sign-up-position .logo {
+  position: absolute;
+  width: 213px;
+  height: 215px;
+  top: 0;
+  left: 559px;
+  object-fit: cover;
+}
+
+.sign-up-position .frame-2 {
+  position: absolute;
+  width: 431px;
+  height: 50px;
+  top: 215px;
+  left: 1042px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.sign-up-position .text-wrapper-3 {
+  position: absolute;
+  width: 202px;
+  top: 14px;
+  left: 48px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #0000003d;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.sign-up-position .identification {
+  position: absolute;
+  width: 43px;
+  height: 26px;
+  top: 12px;
+  left: 2px;
+}
+
+.sign-up-position .frame-3 {
+  position: absolute;
+  width: 431px;
+  height: 50px;
+  top: 290px;
+  left: 1042px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.sign-up-position .text-wrapper-4 {
+  position: absolute;
+  width: 202px;
+  top: 14px;
+  left: 49px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #0000003d;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.sign-up-position .letter {
+  position: absolute;
+  width: 28px;
+  height: 26px;
+  top: 12px;
+  left: 9px;
+}
+
+.sign-up-position .frame-4 {
+  position: absolute;
+  width: 431px;
+  height: 50px;
+  top: 365px;
+  left: 1042px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.sign-up-position .text-wrapper-5 {
+  position: absolute;
+  width: 202px;
+  top: 14px;
+  left: 45px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #0000003d;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.sign-up-position .polygon {
+  position: absolute;
+  width: 18px;
+  height: 13px;
+  top: 18px;
+  left: 401px;
+}
+
+.sign-up-position .frame-5 {
+  position: absolute;
+  width: 431px;
+  height: 50px;
+  top: 505px;
+  left: 1042px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.sign-up-position .eye {
+  position: absolute;
+  width: 35px;
+  height: 18px;
+  top: 12px;
+  left: 392px;
+}
+
+.sign-up-position .overlap-group {
+  position: absolute;
+  width: 245px;
+  height: 26px;
+  top: 12px;
+  left: 0;
+}
+
+.sign-up-position .text-wrapper-6 {
+  position: absolute;
+  width: 202px;
+  top: 2px;
+  left: 43px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #0000003d;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.sign-up-position .img {
+  position: absolute;
+  width: 67px;
+  height: 26px;
+  top: 0;
+  left: 0;
+}
+
+.sign-up-position .frame-6 {
+  position: absolute;
+  width: 431px;
+  height: 50px;
+  top: 580px;
+  left: 1042px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.sign-up-position .overlap-2 {
+  position: absolute;
+  width: 247px;
+  height: 26px;
+  top: 12px;
+  left: 0;
+}
+
+.sign-up-position .text-wrapper-7 {
+  position: absolute;
+  width: 202px;
+  top: 2px;
+  left: 45px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #0000003d;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.sign-up-position .text-wrapper-8 {
+  position: absolute;
+  top: 719px;
+  left: 1132px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 11px;
+  letter-spacing: 1.1px;
+  line-height: normal;
+}
+
+.sign-up-position .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 710px;
+  left: 1292px;
+}
+
+.sign-up-position .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #3b47c4;
+  font-size: 11px;
+  letter-spacing: 1.1px;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.sign-up-position .ellipse-2 {
+  width: 666px;
+  height: 645px;
+  top: 435px;
+  left: 0;
+  border-radius: 333px/322.5px;
+  position: absolute;
+  background: linear-gradient(180deg, rgb(6, 14, 97) 0%, rgba(0, 135.48, 255, 0.55) 80.73%);
+}
+
+.sign-up-position .add-a-heading {
+  position: absolute;
+  width: 490px;
+  height: 435px;
+  top: 333px;
+  left: 426px;
+  object-fit: cover;
+}
+
+.sign-up-position .street-view {
+  position: absolute;
+  width: 90px;
+  height: 26px;
+  top: 380px;
+  left: 1020px;
+}
+
+.sign-up-position .frame-7 {
+  position: absolute;
+  width: 431px;
+  height: 74px;
+  top: 410px;
+  left: 1042px;
+  background-color: #ffffff;
+  border-radius: 0px 0px 10px 10px;
+  overflow: hidden;
+}
+
+.sign-up-position .overlap-3 {
+  position: absolute;
+  width: 431px;
+  height: 38px;
+  top: 7px;
+  left: 0;
+}
+
+.sign-up-position .text-wrapper-10 {
+  position: absolute;
+  width: 202px;
+  top: 0;
+  left: 43px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.sign-up-position .line {
+  top: 29px;
+  position: absolute;
+  width: 431px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.sign-up-position .frame-8 {
+  position: absolute;
+  width: 291px;
+  height: 38px;
+  top: 46px;
+  left: 43px;
+}
+
+.sign-up-position .text-wrapper-11 {
+  position: absolute;
+  width: 139px;
+  top: -1px;
+  left: 0;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 400;
+  color: #8b8b8b;
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  line-height: normal;
+}
+
+.sign-up-position .line-2 {
+  top: 1px;
+  position: absolute;
+  width: 431px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}

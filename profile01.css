@@ -1,0 +1,257 @@
+.PROFILE {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.PROFILE .overlap-group-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1280px;
+  height: 832px;
+  background-image: url(img/acsits-3.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  width: 100%;
+}
+
+.PROFILE .overlap-group {
+  position: relative;
+  width: 1283px;
+  height: 845px;
+  top: -13px;
+  left: -3px;
+}
+
+.PROFILE .ACSITS {
+  position: absolute;
+  width: 1280px;
+  height: 832px;
+  top: 13px;
+  left: 3px;
+  object-fit: cover;
+}
+
+.PROFILE .rectangle {
+  width: 761px;
+  height: 308px;
+  top: 429px;
+  left: 262px;
+  background-color: #f5f5fa;
+  border-radius: 20px;
+  position: absolute;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.PROFILE .div {
+  width: 1283px;
+  height: 111px;
+  top: 0;
+  left: 0;
+  background-color: #060e613b;
+  border-radius: 10px;
+  position: absolute;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.PROFILE .mask-group {
+  position: absolute;
+  width: 56px;
+  height: 39px;
+  top: 44px;
+  left: 1096px;
+}
+
+.PROFILE .text-wrapper {
+  position: absolute;
+  width: 7px;
+  top: 68px;
+  left: 1127px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 700;
+  color: #fbfbfb;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+  line-height: normal;
+}
+
+.PROFILE .text-wrapper-2 {
+  position: absolute;
+  top: 50px;
+  left: 339px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.PROFILE .text-wrapper-3 {
+  position: absolute;
+  top: 50px;
+  left: 854px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.PROFILE .text-wrapper-4 {
+  position: absolute;
+  top: 50px;
+  left: 968px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.PROFILE .text-wrapper-5 {
+  position: absolute;
+  top: 50px;
+  left: 1166px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #060e61;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.PROFILE .text-wrapper-6 {
+  position: absolute;
+  top: 50px;
+  left: 742px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.PROFILE .text-wrapper-7 {
+  position: absolute;
+  top: 50px;
+  left: 229px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.PROFILE .logo {
+  position: absolute;
+  width: 109px;
+  height: 118px;
+  top: 13px;
+  left: 39px;
+  object-fit: cover;
+}
+
+.PROFILE .add-properties {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 552px;
+  left: 591px;
+}
+
+.PROFILE .image {
+  position: absolute;
+  width: 267px;
+  height: 240px;
+  top: 172px;
+  left: 509px;
+  object-fit: cover;
+}
+
+.PROFILE .frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 438px;
+  left: 324px;
+}
+
+.PROFILE .name-angeline-q-wrapper {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px 100px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.PROFILE .name-angeline-q {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+}
+
+.PROFILE .div-wrapper {
+  display: flex;
+  width: 178px;
+  height: 47px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 762px;
+  left: 447px;
+  background-color: #060e61;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.PROFILE .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -12.5px;
+  margin-bottom: -10.5px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1.25px;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.PROFILE .frame-2 {
+  display: flex;
+  width: 178px;
+  height: 47px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 761px;
+  left: 676px;
+  background-color: #060e61;
+  border-radius: 20px;
+  overflow: hidden;
+}
