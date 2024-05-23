@@ -10,7 +10,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $con_password = $_POST['confirm_password'];
 
     $message = Register($email, $password, $con_password, $fullname);
-    echo $message;
+  
+     // If registration is successful, redirect to profile.php with user ID
+    if ($message === 'success') {
+        header("Location: profile.php?id=$user_id");
+        exit(); // Ensure no further output is sent
+    } else {
+        echo $message; // Display any error messages
+    }
 }
 ?>
 <!DOCTYPE html>
